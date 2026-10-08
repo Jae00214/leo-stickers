@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "updated_at": "2026-10-08",
   "stickers": [
     {
@@ -13,11 +13,17 @@
         "轻松打招呼"
       ],
       "path": "stickers/001-happy.png",
-      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/001-happy.png",
-      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/001-happy.png",
       "alt": "开心的圆脸测试表情",
       "license": "MIT",
-      "source": "本仓库原创几何测试图，无第三方图片素材"
+      "source": "本仓库原创几何测试图，无第三方图片素材",
+      "name": "开心圆脸",
+      "url": "https://github.com/Jae00214/leo-stickers/blob/main/stickers/001-happy.png",
+      "url_type": "github_authenticated_file",
+      "retrieval": {
+        "repository": "Jae00214/leo-stickers",
+        "ref": "main",
+        "path": "stickers/001-happy.png"
+      }
     },
     {
       "id": "002",
@@ -30,11 +36,17 @@
         "表达支持"
       ],
       "path": "stickers/002-comfort.png",
-      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/002-comfort.png",
-      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/002-comfort.png",
       "alt": "陪伴的圆脸测试表情",
       "license": "MIT",
-      "source": "本仓库原创几何测试图，无第三方图片素材"
+      "source": "本仓库原创几何测试图，无第三方图片素材",
+      "name": "陪伴圆脸",
+      "url": "https://github.com/Jae00214/leo-stickers/blob/main/stickers/002-comfort.png",
+      "url_type": "github_authenticated_file",
+      "retrieval": {
+        "repository": "Jae00214/leo-stickers",
+        "ref": "main",
+        "path": "stickers/002-comfort.png"
+      }
     },
     {
       "id": "003",
@@ -47,11 +59,19 @@
         "轻松吐槽"
       ],
       "path": "stickers/003-surprised.png",
-      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/003-surprised.png",
-      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/003-surprised.png",
       "alt": "惊讶的圆脸测试表情",
       "license": "MIT",
-      "source": "本仓库原创几何测试图，无第三方图片素材"
+      "source": "本仓库原创几何测试图，无第三方图片素材",
+      "name": "惊讶圆脸",
+      "url": "https://github.com/Jae00214/leo-stickers/blob/main/stickers/003-surprised.png",
+      "url_type": "github_authenticated_file",
+      "retrieval": {
+        "repository": "Jae00214/leo-stickers",
+        "ref": "main",
+        "path": "stickers/003-surprised.png"
+      }
     }
-  ]
+  ],
+  "access": "private",
+  "repository": "Jae00214/leo-stickers"
 }
