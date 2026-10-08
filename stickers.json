@@ -1,6 +1,8 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "updated_at": "2026-10-08",
+  "access": "public",
+  "repository": "Jae00214/leo-stickers",
   "stickers": [
     {
       "id": "001",
@@ -17,13 +19,14 @@
       "license": "MIT",
       "source": "本仓库原创几何测试图，无第三方图片素材",
       "name": "开心圆脸",
-      "url": "https://github.com/Jae00214/leo-stickers/blob/main/stickers/001-happy.png",
-      "url_type": "github_authenticated_file",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/001-happy.png",
+      "url_type": "public_image",
       "retrieval": {
         "repository": "Jae00214/leo-stickers",
         "ref": "main",
         "path": "stickers/001-happy.png"
-      }
+      },
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/001-happy.png"
     },
     {
       "id": "002",
@@ -40,13 +43,14 @@
       "license": "MIT",
       "source": "本仓库原创几何测试图，无第三方图片素材",
       "name": "陪伴圆脸",
-      "url": "https://github.com/Jae00214/leo-stickers/blob/main/stickers/002-comfort.png",
-      "url_type": "github_authenticated_file",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/002-comfort.png",
+      "url_type": "public_image",
       "retrieval": {
         "repository": "Jae00214/leo-stickers",
         "ref": "main",
         "path": "stickers/002-comfort.png"
-      }
+      },
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/002-comfort.png"
     },
     {
       "id": "003",
@@ -63,15 +67,169 @@
       "license": "MIT",
       "source": "本仓库原创几何测试图，无第三方图片素材",
       "name": "惊讶圆脸",
-      "url": "https://github.com/Jae00214/leo-stickers/blob/main/stickers/003-surprised.png",
-      "url_type": "github_authenticated_file",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/003-surprised.png",
+      "url_type": "public_image",
       "retrieval": {
         "repository": "Jae00214/leo-stickers",
         "ref": "main",
         "path": "stickers/003-surprised.png"
-      }
+      },
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/003-surprised.png"
+    },
+    {
+      "id": "vc-001",
+      "name": "一起比心",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "affection",
+      "emotion_tags": [
+        "亲切",
+        "喜欢",
+        "感谢"
+      ],
+      "chat_scenarios": [
+        "回应贴贴",
+        "表达感谢",
+        "轻松表达支持"
+      ],
+      "avoid_scenarios": [
+        "严肃求助或真实痛苦时避免戏谑表情"
+      ],
+      "image_text": "",
+      "alt": "白猫穿红衣，与灰猫一起用手围出红心。",
+      "path": "stickers/vintage-cat/affection/vc-001-heart-together.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/affection/vc-001-heart-together.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/affection/vc-001-heart-together.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5323909332472590.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null
+    },
+    {
+      "id": "vc-002",
+      "name": "托腮享受当下",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "celebration",
+      "emotion_tags": [
+        "满足",
+        "开心",
+        "期待"
+      ],
+      "chat_scenarios": [
+        "分享生活小幸福",
+        "放松闲聊",
+        "期待好事情"
+      ],
+      "avoid_scenarios": [
+        "严肃求助或真实痛苦时避免戏谑表情"
+      ],
+      "image_text": "",
+      "alt": "穿红衣的白猫托腮靠窗，画面有闪光效果。",
+      "path": "stickers/vintage-cat/celebration/vc-002-enjoy-the-moment.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/celebration/vc-002-enjoy-the-moment.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/celebration/vc-002-enjoy-the-moment.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5300325662852628.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null
+    },
+    {
+      "id": "vc-003",
+      "name": "大口吃汉堡",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "饥饿",
+        "满足",
+        "馋"
+      ],
+      "chat_scenarios": [
+        "聊晚饭吃什么",
+        "表达想吃东西",
+        "轻松干饭话题"
+      ],
+      "avoid_scenarios": [
+        "严肃求助或真实痛苦时避免戏谑表情"
+      ],
+      "image_text": "",
+      "alt": "灰猫张大嘴，双手拿着汉堡。",
+      "path": "stickers/vintage-cat/reaction/vc-003-eat-burger.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-003-eat-burger.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-003-eat-burger.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5331515149125985.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null
+    },
+    {
+      "id": "vc-004",
+      "name": "墨镜露齿笑",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "得意",
+        "调皮",
+        "自信"
+      ],
+      "chat_scenarios": [
+        "轻松开玩笑",
+        "小得意",
+        "完成小事后卖个乖"
+      ],
+      "avoid_scenarios": [
+        "严肃求助或真实痛苦时避免戏谑表情"
+      ],
+      "image_text": "",
+      "alt": "灰猫戴墨镜，咧嘴露齿微笑。",
+      "path": "stickers/vintage-cat/reaction/vc-004-smug-sunglasses.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-004-smug-sunglasses.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-004-smug-sunglasses.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5297789468935508.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null
+    },
+    {
+      "id": "vc-005",
+      "name": "墨镜严肃脸",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "complaint",
+      "emotion_tags": [
+        "无语",
+        "不满",
+        "严肃"
+      ],
+      "chat_scenarios": [
+        "轻度吐槽",
+        "表达不赞同",
+        "开玩笑式拒绝"
+      ],
+      "avoid_scenarios": [
+        "严肃求助或真实痛苦时避免戏谑表情"
+      ],
+      "image_text": "",
+      "alt": "灰猫戴墨镜，皱眉撇嘴，表情严肃。",
+      "path": "stickers/vintage-cat/complaint/vc-005-serious-sunglasses.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/complaint/vc-005-serious-sunglasses.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/complaint/vc-005-serious-sunglasses.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5297789468935508.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null
     }
-  ],
-  "access": "private",
-  "repository": "Jae00214/leo-stickers"
+  ]
 }
