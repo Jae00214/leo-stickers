@@ -1,6 +1,6 @@
 # leo-stickers
 
-供个人聊天使用的 **Public** 表情包仓库。目前收录 3 张原创测试图及 5 张 VintageCat 复古猫系列图片。
+供个人聊天使用的 **Public** 表情包仓库。目前收录 3 张原创测试图及 29 张 VintageCat 复古猫系列图片（其中 16 张为 GIF 动画）。
 
 ## 复古猫系列预览
 
@@ -19,7 +19,7 @@
 [公开 JSON 索引](https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers.json) · [图片目录](stickers/) · [来源记录](docs/vintage-cat-sources.md)
 
 采用功能文件夹、稳定编号与内容命名；同一图只存一份，索引用多个标签匹配：
-`stickers/vintage-cat/affection/`、`celebration/`、`reaction/`、`complaint/`。
+`stickers/vintage-cat/affection/`、`comfort/`、`greeting/`、`fatigue/`、`celebration/`、`reaction/`、`complaint/`。
 原有 001–003 测试图路径保留。
 
 字段包含 id、name、emotion_tags、chat_scenarios、alt、path、url、cdn_url。
