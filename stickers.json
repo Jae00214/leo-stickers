@@ -1046,7 +1046,3682 @@
       "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tly1ie2m1a0wh2j30rs0rswf5.jpg",
       "mime_type": "image/jpeg",
       "animated": false
+    },
+    {
+      "id": "ld-001",
+      "name": "线条小狗·好评点赞",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：好评点赞",
+      "path": "stickers/line-dog/celebration/ld-001-good-review.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/celebration/ld-001-good-review.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/celebration/ld-001-good-review.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E5%B0%8F%E9%87%91%E6%AF%9B_%E5%B0%8F%E6%83%85%E7%BB%AA/golden_02.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "ac567ac9bc4ed38c9c2420a018be3f63391f1542a0704c034e12c1c60a6df1dc",
+      "character": "小金毛"
+    },
+    {
+      "id": "ld-002",
+      "name": "线条小狗·一起庆祝",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：一起庆祝",
+      "path": "stickers/line-dog/celebration/ld-002-celebrate.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/celebration/ld-002-celebrate.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/celebration/ld-002-celebrate.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E5%B0%8F%E9%87%91%E6%AF%9B_%E5%BC%80%E5%BF%83/golden_03.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "6e9715615617edfbc3d38937ba7093543b23a44fcabfcd08e0d10ca5219ba84b",
+      "character": "小金毛"
+    },
+    {
+      "id": "ld-003",
+      "name": "线条小狗·美滋滋晃晃",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：美滋滋晃晃",
+      "path": "stickers/line-dog/celebration/ld-003-happy-wiggle.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/celebration/ld-003-happy-wiggle.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/celebration/ld-003-happy-wiggle.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E5%B0%8F%E9%87%91%E6%AF%9B_%E5%BC%80%E5%BF%83/happy_04.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "29fa2880d8d4fc41aba87eaf9c7a604013a0abea5cdaf09f41eda03e9c3612ba",
+      "character": "小金毛"
+    },
+    {
+      "id": "ld-004",
+      "name": "线条小狗·被爱心包围",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：被爱心包围",
+      "path": "stickers/line-dog/affection/ld-004-heart-surround.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/affection/ld-004-heart-surround.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/affection/ld-004-heart-surround.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E5%B0%8F%E9%87%91%E6%AF%9B_%E5%BC%80%E5%BF%83/happy_09.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "0a53a8bd32482fe7641eddb344ff9fd5dcc4be95f881a87c6df3e150466cee63",
+      "character": "小金毛"
+    },
+    {
+      "id": "ld-005",
+      "name": "线条小狗·抱紧小被被",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "comfort",
+      "emotion_tags": [
+        "陪伴",
+        "安慰",
+        "温柔",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "安慰日常小委屈",
+        "表达陪着你或给你支持"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：抱紧小被被",
+      "path": "stickers/line-dog/comfort/ld-005-hug-blanket.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/comfort/ld-005-hug-blanket.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/comfort/ld-005-hug-blanket.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E5%B0%8F%E9%87%91%E6%AF%9B_%E6%97%A5%E5%B8%B8/3.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "00eee3a0bccb63ff6d820e735152d9dde11e9423dd609e2a69e4cc67d78f6698",
+      "character": "小金毛"
+    },
+    {
+      "id": "ld-006",
+      "name": "线条小狗·滑走下次见",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "greeting",
+      "emotion_tags": [
+        "亲切",
+        "招呼",
+        "你好"
+      ],
+      "chat_scenarios": [
+        "聊天开场或欢迎回来",
+        "轻松打招呼或告别"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：滑走下次见",
+      "path": "stickers/line-dog/greeting/ld-006-slide-away.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/greeting/ld-006-slide-away.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/greeting/ld-006-slide-away.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E5%B0%8F%E9%87%91%E6%AF%9B_%E6%97%A5%E5%B8%B8/bye_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "7f3f91496afa4c991fe1f527068a41a8c552705c3e1b4684f7182b4dc08bd791",
+      "character": "小金毛"
+    },
+    {
+      "id": "ld-007",
+      "name": "线条小狗·躺平打滚",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "fatigue",
+      "emotion_tags": [
+        "疲惫",
+        "累",
+        "休息"
+      ],
+      "chat_scenarios": [
+        "聊加班或今天累了",
+        "想休息或放松一下"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：躺平打滚",
+      "path": "stickers/line-dog/fatigue/ld-007-lie-roll.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/fatigue/ld-007-lie-roll.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/fatigue/ld-007-lie-roll.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E5%B0%8F%E9%87%91%E6%AF%9B_%E7%8E%A9%E8%80%8D/5.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "e4028ac160ce0b306be1a48556ce52a7d46b7ccae7f2250904d124d023d99435",
+      "character": "小金毛"
+    },
+    {
+      "id": "ld-008",
+      "name": "线条小狗·捧爱心给你",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：捧爱心给你",
+      "path": "stickers/line-dog/affection/ld-008-offer-heart.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/affection/ld-008-offer-heart.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/affection/ld-008-offer-heart.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%B0%8F%E6%83%85%E7%BB%AA/7.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "cb625ed2e29aeccf7d840f9f723d3e6ddfb6972852aacf4ffc4b4e59381c1336",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-009",
+      "name": "线条小狗·小狗气红了",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "complaint",
+      "emotion_tags": [
+        "委屈",
+        "不满",
+        "吐槽"
+      ],
+      "chat_scenarios": [
+        "轻度吐槽或撒娇哭哭",
+        "表达日常的小情绪"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：小狗气红了",
+      "path": "stickers/line-dog/complaint/ld-009-angry-red.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/complaint/ld-009-angry-red.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/complaint/ld-009-angry-red.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%B0%8F%E6%83%85%E7%BB%AA/angry_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "8d62b03b17ef59d16e6924bfed769f6e9e2c131fc93a6c63f07df476498bba43",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-010",
+      "name": "线条小狗·大吃一惊",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应",
+        "惊讶"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：大吃一惊",
+      "path": "stickers/line-dog/reaction/ld-010-surprised.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/reaction/ld-010-surprised.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/reaction/ld-010-surprised.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%B0%8F%E6%83%85%E7%BB%AA/astonishing_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "ea171e11c746438540a69f655f01cc50f0db7c884c23e4ab6285d094cfa8eee1",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-011",
+      "name": "线条小狗·委屈揉揉眼",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "complaint",
+      "emotion_tags": [
+        "委屈",
+        "不满",
+        "吐槽"
+      ],
+      "chat_scenarios": [
+        "轻度吐槽或撒娇哭哭",
+        "表达日常的小情绪"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：委屈揉揉眼",
+      "path": "stickers/line-dog/complaint/ld-011-cry-eyes.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/complaint/ld-011-cry-eyes.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/complaint/ld-011-cry-eyes.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%B0%8F%E6%83%85%E7%BB%AA/sad_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "d6184972f4609b303a5713996e527a6aee33c83e514f7ada6323105bd452dcff",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-012",
+      "name": "线条小狗·贴贴爱你哟",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：贴贴爱你哟",
+      "path": "stickers/line-dog/affection/ld-012-love-you.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/affection/ld-012-love-you.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/affection/ld-012-love-you.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%B0%8F%E6%83%85%E7%BB%AA/special_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "5ecf292cd00b08f6c3b669488c381bd1c5ac2c89d822d6329756aa13bf9b2900",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-013",
+      "name": "线条小狗·干饭第一名",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "food",
+      "emotion_tags": [
+        "饿",
+        "干饭",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "聊吃饭或想吃的东西",
+        "分享零食和饮料"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：干饭第一名",
+      "path": "stickers/line-dog/food/ld-013-eat-meal.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/food/ld-013-eat-meal.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/food/ld-013-eat-meal.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%B9%B2%E9%A5%AD/eat_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "84a7d48d81f7ad08b40825212313f4783944125ae311a839e062f46f78110f40",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-014",
+      "name": "线条小狗·饿饿等开饭",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "food",
+      "emotion_tags": [
+        "饿",
+        "干饭",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "聊吃饭或想吃的东西",
+        "分享零食和饮料"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：饿饿等开饭",
+      "path": "stickers/line-dog/food/ld-014-hungry.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/food/ld-014-hungry.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/food/ld-014-hungry.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%B9%B2%E9%A5%AD/hungry_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "42dc60350fc721cb482434a5ab0b9fff6070dc28f033d693e5495b213d5893bd",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-015",
+      "name": "线条小狗·开心转圈圈",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：开心转圈圈",
+      "path": "stickers/line-dog/celebration/ld-015-happy-spin.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/celebration/ld-015-happy-spin.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/celebration/ld-015-happy-spin.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%BC%80%E5%BF%83/happy_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "a5c98b4ecc4a703b2572c3731d5a3c5dca369b0ca11cb232651ee05ed7f96a85",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-016",
+      "name": "线条小狗·刷手机乐开花",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：刷手机乐开花",
+      "path": "stickers/line-dog/celebration/ld-016-happy-phone.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/celebration/ld-016-happy-phone.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/celebration/ld-016-happy-phone.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%BC%80%E5%BF%83/happy_02.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "948810e6c8a93b3bf6011504cdda4c730ef321dbf17c8610d2c863d54a2a7f04",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-017",
+      "name": "线条小狗·咧嘴笑一下",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：咧嘴笑一下",
+      "path": "stickers/line-dog/celebration/ld-017-big-smile.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/celebration/ld-017-big-smile.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/celebration/ld-017-big-smile.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%BC%80%E5%BF%83/happy_11.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "f5d79861dcf252ab330527ff3a76a9534aba802caefff5c7d64333c923c8e283",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-018",
+      "name": "线条小狗·开心捧捧脸",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：开心捧捧脸",
+      "path": "stickers/line-dog/affection/ld-018-happy-cheeks.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/affection/ld-018-happy-cheeks.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/affection/ld-018-happy-cheeks.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%BC%80%E5%BF%83/happy_13.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "b628b396b48bae3cf8e5d946a31879f956503ee30817f1a7c1a3d9f6767a6d4b",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-019",
+      "name": "线条小狗·送你一束花",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：送你一束花",
+      "path": "stickers/line-dog/affection/ld-019-offer-flowers.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/affection/ld-019-offer-flowers.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/affection/ld-019-offer-flowers.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E5%BC%80%E5%BF%83/happy_22.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "50f0361d8f5600da1eb009c795ecd92e61b1eb3d9b7e8c3d6bbba48bddd2f5e4",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-020",
+      "name": "线条小狗·两只小狗来问好",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "greeting",
+      "emotion_tags": [
+        "亲切",
+        "招呼",
+        "你好"
+      ],
+      "chat_scenarios": [
+        "聊天开场或欢迎回来",
+        "轻松打招呼或告别"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：两只小狗来问好",
+      "path": "stickers/line-dog/greeting/ld-020-hello-together.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/greeting/ld-020-hello-together.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/greeting/ld-020-hello-together.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E6%89%93%E6%8B%9B%E5%91%BC/greet_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "2617394443529d50ccaaae798eea06c5c1d5aecfb3f7aaa1c2bc3c3a0cd6366c",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-021",
+      "name": "线条小狗·从箱子里探头",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "greeting",
+      "emotion_tags": [
+        "亲切",
+        "招呼",
+        "你好"
+      ],
+      "chat_scenarios": [
+        "聊天开场或欢迎回来",
+        "轻松打招呼或告别"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：从箱子里探头",
+      "path": "stickers/line-dog/greeting/ld-021-peek-box.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/greeting/ld-021-peek-box.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/greeting/ld-021-peek-box.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E6%89%93%E6%8B%9B%E5%91%BC/greet_03.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "83538a2b9db0a297a419f997889a82ecec88e7df5dd830903eb3093f3fb70c29",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-022",
+      "name": "线条小狗·挥爪打招呼",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "greeting",
+      "emotion_tags": [
+        "亲切",
+        "招呼",
+        "你好"
+      ],
+      "chat_scenarios": [
+        "聊天开场或欢迎回来",
+        "轻松打招呼或告别"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：挥爪打招呼",
+      "path": "stickers/line-dog/greeting/ld-022-wave.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/greeting/ld-022-wave.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/greeting/ld-022-wave.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E6%89%93%E6%8B%9B%E5%91%BC/greet_07.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "cf17e1c9eecaa88516ce6ced05b1583ab2ad7982a437434bd667b4193977f171",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-023",
+      "name": "线条小狗·抱抱来啦",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：抱抱来啦",
+      "path": "stickers/line-dog/affection/ld-023-hug.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/affection/ld-023-hug.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/affection/ld-023-hug.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E6%89%93%E6%8B%9B%E5%91%BC/greet_12.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "5ff77b4b1b9d91afb7b592e9b9916ebf127516161f4b8cd2bf5bc8a89e6b89c1",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-024",
+      "name": "线条小狗·悠闲散步",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "daily",
+      "emotion_tags": [
+        "日常",
+        "悠闲",
+        "放松"
+      ],
+      "chat_scenarios": [
+        "分享日常正在做的事",
+        "轻松陪聊或短暂离开"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：悠闲散步",
+      "path": "stickers/line-dog/daily/ld-024-walk.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/daily/ld-024-walk.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/daily/ld-024-walk.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E6%95%A3%E6%AD%A5/walk_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "3d2fe54c30866a584178e5d7c8559e84977c45002a41830da22f9cb897432058",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-025",
+      "name": "线条小狗·洗香香",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "daily",
+      "emotion_tags": [
+        "日常",
+        "悠闲",
+        "放松"
+      ],
+      "chat_scenarios": [
+        "分享日常正在做的事",
+        "轻松陪聊或短暂离开"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：洗香香",
+      "path": "stickers/line-dog/daily/ld-025-shower.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/daily/ld-025-shower.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/daily/ld-025-shower.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E6%97%A5%E5%B8%B8/bath_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "b0b39161866b952462ad84d26569a0ffe1547ed4fdbddac7ab4496077ae0f65f",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-026",
+      "name": "线条小狗·努力搬砖",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "daily",
+      "emotion_tags": [
+        "日常",
+        "悠闲",
+        "放松"
+      ],
+      "chat_scenarios": [
+        "分享日常正在做的事",
+        "轻松陪聊或短暂离开"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：努力搬砖",
+      "path": "stickers/line-dog/daily/ld-026-work.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/daily/ld-026-work.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/daily/ld-026-work.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E6%97%A5%E5%B8%B8/work_01.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "c9f94d0555d78b2ba37c12247e760cfb5bf2dd98a0d428ce023c82f7d547ff23",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-027",
+      "name": "线条小狗·加班哭哭",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "fatigue",
+      "emotion_tags": [
+        "疲惫",
+        "累",
+        "休息"
+      ],
+      "chat_scenarios": [
+        "聊加班或今天累了",
+        "想休息或放松一下"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：加班哭哭",
+      "path": "stickers/line-dog/fatigue/ld-027-overtime.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/fatigue/ld-027-overtime.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/fatigue/ld-027-overtime.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E6%97%A5%E5%B8%B8/work_02.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "48903d7ea381bd2ffd9ed91d56bbdfcdd2aff070fd36c29c5375356bac84eacc",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-028",
+      "name": "线条小狗·贴贴抱抱",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "comfort",
+      "emotion_tags": [
+        "陪伴",
+        "安慰",
+        "温柔",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "安慰日常小委屈",
+        "表达陪着你或给你支持"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：贴贴抱抱",
+      "path": "stickers/line-dog/comfort/ld-028-cuddle-together.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/comfort/ld-028-cuddle-together.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/comfort/ld-028-cuddle-together.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E7%8E%A9%E8%80%8D/8.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "061c78ef6edd3178a5143d406a86df45a31e498a3346c41259c199d103bce6ce",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-029",
+      "name": "线条小狗·趴枕头睡觉",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "sleep",
+      "emotion_tags": [
+        "困",
+        "晚安",
+        "睡觉"
+      ],
+      "chat_scenarios": [
+        "互道晚安或准备睡觉",
+        "提醒对方早点休息"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：趴枕头睡觉",
+      "path": "stickers/line-dog/sleep/ld-029-sleep-pillow.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/sleep/ld-029-sleep-pillow.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/sleep/ld-029-sleep-pillow.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E9%A9%AC%E5%B0%94%E6%B5%8E%E6%96%AF_%E7%9D%A1%E8%A7%89/sleep_02.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "59c2b96bb38cdb8b535d392c3e4ff54ff80ea12950b50c3a8324ee3e71763d49",
+      "character": "马尔济斯"
+    },
+    {
+      "id": "ld-030",
+      "name": "线条小狗·偷偷观察一下",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "线条小狗",
+      "collection_aliases": [
+        "线条小狗",
+        "小狗",
+        "Maltese",
+        "马尔济斯",
+        "小金毛"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "线条小狗：偷偷观察一下",
+      "path": "stickers/line-dog/reaction/ld-030-peek.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/line-dog/reaction/ld-030-peek.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/line-dog/reaction/ld-030-peek.gif",
+      "url_type": "public_image",
+      "source_url": "https://fieldost.com/",
+      "source_image_url": "https://fieldost.com/assets/gif/%E5%B0%8F%E9%87%91%E6%AF%9B_%E6%97%A5%E5%B8%B8/golden_08.gif",
+      "source_author": "Moonlab Studio；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "ffb6d110971cb92edd21c46cdaca95cb6350312bc7f0bfd3059a2d85f2d3db45",
+      "character": "小金毛"
+    },
+    {
+      "id": "ck-001",
+      "name": "吉伊卡哇·乌萨奇开心晃晃",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "乌萨奇"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：乌萨奇开心晃晃",
+      "path": "stickers/chiikawa/celebration/ck-001-usagi-wiggle.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/celebration/ck-001-usagi-wiggle.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/celebration/ck-001-usagi-wiggle.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/8c7e20ea2b244367a413df9c26fb92e7 (1).gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "db73e942860884348cd156d23dd0df65819b436f0c7fd3b90240fe0e98820fbf"
+    },
+    {
+      "id": "ck-002",
+      "name": "吉伊卡哇·乌萨奇累趴了",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "乌萨奇"
+      ],
+      "category": "fatigue",
+      "emotion_tags": [
+        "疲惫",
+        "累",
+        "休息"
+      ],
+      "chat_scenarios": [
+        "聊加班或今天累了",
+        "想休息或放松一下"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：乌萨奇累趴了",
+      "path": "stickers/chiikawa/fatigue/ck-002-usagi-tired.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/fatigue/ck-002-usagi-tired.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/fatigue/ck-002-usagi-tired.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/030ac08bc7af48fbb0093929458b7198.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "a74337edf6471b89397e878c9e3564ab3101c0ad691f2d763d9d25550aa31444"
+    },
+    {
+      "id": "ck-003",
+      "name": "吉伊卡哇·飞鼠害羞摇尾巴",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "飞鼠"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱",
+        "害羞"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：飞鼠害羞摇尾巴",
+      "path": "stickers/chiikawa/affection/ck-003-momonga-shy.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/affection/ck-003-momonga-shy.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/affection/ck-003-momonga-shy.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/0b8404aaca03403a9c534d4f27931d1d.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "99d0f41989bc9c5d1642d5a638755f243e030e806a3cd4abe940076b771a3a7d"
+    },
+    {
+      "id": "ck-004",
+      "name": "吉伊卡哇·小八害羞笑笑",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "小八"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱",
+        "害羞"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：小八害羞笑笑",
+      "path": "stickers/chiikawa/affection/ck-004-hachiware-shy.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/affection/ck-004-hachiware-shy.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/affection/ck-004-hachiware-shy.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/17e51f83bd6649f2bcea2d61ba8955fd.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "37a202bf9d11fc41fbf3ce3843821ad8160329769efc58bda65a1f7d7cefdfc9"
+    },
+    {
+      "id": "ck-005",
+      "name": "吉伊卡哇·吉伊星星眼期待",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应",
+        "期待"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊星星眼期待",
+      "path": "stickers/chiikawa/reaction/ck-005-chiikawa-expect.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/reaction/ck-005-chiikawa-expect.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/reaction/ck-005-chiikawa-expect.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/8bb05bfee9234549894b7ee12383a790.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "0e83396da2515c24d31b1c6a84c5bbabee320cfb480d5d4fdde900ae1f75e616"
+    },
+    {
+      "id": "ck-006",
+      "name": "吉伊卡哇·吉伊和小八开心跳跳",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊",
+        "小八"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊和小八开心跳跳",
+      "path": "stickers/chiikawa/celebration/ck-006-happy-hop.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/celebration/ck-006-happy-hop.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/celebration/ck-006-happy-hop.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/e94fbd12d9e7448faed0bcea891389c2.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "a6ea79b179715b2c55255e8e944a6addf8a23a1b7ebb6ea036e62cfc5f247d9c"
+    },
+    {
+      "id": "ck-007",
+      "name": "吉伊卡哇·吉伊开饭啦",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "food",
+      "emotion_tags": [
+        "饿",
+        "干饭",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "聊吃饭或想吃的东西",
+        "分享零食和饮料"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊开饭啦",
+      "path": "stickers/chiikawa/food/ck-007-chiikawa-eat.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/food/ck-007-chiikawa-eat.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/food/ck-007-chiikawa-eat.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/20250902145500_2d1a4ca2b25becedfcb88cb69d677c18.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "25521deb768f975cccf52ce92decf6807f7db20c660be3fab4e31414fb81e960"
+    },
+    {
+      "id": "ck-008",
+      "name": "吉伊卡哇·小八闪亮亮招手",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "小八"
+      ],
+      "category": "greeting",
+      "emotion_tags": [
+        "亲切",
+        "招呼",
+        "你好"
+      ],
+      "chat_scenarios": [
+        "聊天开场或欢迎回来",
+        "轻松打招呼或告别"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：小八闪亮亮招手",
+      "path": "stickers/chiikawa/greeting/ck-008-hachiware-wave.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/greeting/ck-008-hachiware-wave.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/greeting/ck-008-hachiware-wave.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/65ca44b62c2c4bda9a77b093b91b0a49.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "13823376ffc0c5057c9cf749758da74cd88603a7f1f4ce9d90a34e0d49e994a8"
+    },
+    {
+      "id": "ck-009",
+      "name": "吉伊卡哇·吉伊拿彩球加油",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "comfort",
+      "emotion_tags": [
+        "陪伴",
+        "安慰",
+        "温柔",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "安慰日常小委屈",
+        "表达陪着你或给你支持"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊拿彩球加油",
+      "path": "stickers/chiikawa/comfort/ck-009-chiikawa-cheer.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/comfort/ck-009-chiikawa-cheer.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/comfort/ck-009-chiikawa-cheer.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/14cb75949ad641c5a80f7c8233855f45.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "a73782821e3379fda91078baea53b690cded7b7712b88eec20ed7fc85651fb76"
+    },
+    {
+      "id": "ck-010",
+      "name": "吉伊卡哇·乌萨奇睡衣刷牙",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "乌萨奇"
+      ],
+      "category": "sleep",
+      "emotion_tags": [
+        "困",
+        "晚安",
+        "睡觉"
+      ],
+      "chat_scenarios": [
+        "互道晚安或准备睡觉",
+        "提醒对方早点休息"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：乌萨奇睡衣刷牙",
+      "path": "stickers/chiikawa/sleep/ck-010-usagi-brush.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/sleep/ck-010-usagi-brush.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/sleep/ck-010-usagi-brush.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=2",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/f064bb269ae34b08a276d4baf4c35f6d.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "0c6211eecec12b7223c9731078a0e5b86b1e066d365f672a40f4d1e34363fd4e"
+    },
+    {
+      "id": "ck-011",
+      "name": "吉伊卡哇·小八兴奋扭扭",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "小八"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：小八兴奋扭扭",
+      "path": "stickers/chiikawa/celebration/ck-011-hachiware-dance.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/celebration/ck-011-hachiware-dance.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/celebration/ck-011-hachiware-dance.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=2",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/d706d236b4bd4be4b3b1f52d3505afc0.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "acdd99cf0b543715246bee5c9b68af08e9a2db42b979a335b1da2ac92a485734"
+    },
+    {
+      "id": "ck-012",
+      "name": "吉伊卡哇·小八捧爱心",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "小八"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：小八捧爱心",
+      "path": "stickers/chiikawa/affection/ck-012-hachiware-heart.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/affection/ck-012-hachiware-heart.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/affection/ck-012-hachiware-heart.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=2",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/c53f69f886854df28b85a0da5eb9f954.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "2c94cd9cbbb00bf1c49777dd5b564ae998abcc3a0b84cccebe3ef7f10b4871ae"
+    },
+    {
+      "id": "ck-013",
+      "name": "吉伊卡哇·吉伊捧四叶草",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "comfort",
+      "emotion_tags": [
+        "陪伴",
+        "安慰",
+        "温柔",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "安慰日常小委屈",
+        "表达陪着你或给你支持"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊捧四叶草",
+      "path": "stickers/chiikawa/comfort/ck-013-chiikawa-clover.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/comfort/ck-013-chiikawa-clover.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/comfort/ck-013-chiikawa-clover.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=3",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/0808bb66ab9a45d39a04437b48b17a22.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "23af9d767d1f4e59ca91f9f3dbc0df1222431e5a09a65b02ad1f6208f7edbc38"
+    },
+    {
+      "id": "ck-014",
+      "name": "吉伊卡哇·吉伊生日快乐",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞",
+        "生日"
+      ],
+      "chat_scenarios": [
+        "祝对方生日快乐",
+        "庆祝生日并送上祝福"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊生日快乐",
+      "path": "stickers/chiikawa/celebration/ck-014-chiikawa-birthday.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/celebration/ck-014-chiikawa-birthday.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/celebration/ck-014-chiikawa-birthday.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=3",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/bc83011f354d4c328738a55ae0cf8b31.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "bba711bdebd233e425e81984dafa5acfb841d30347956a99f46bbd2f5d401138"
+    },
+    {
+      "id": "ck-015",
+      "name": "吉伊卡哇·吉伊小八靠靠",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊",
+        "小八"
+      ],
+      "category": "comfort",
+      "emotion_tags": [
+        "陪伴",
+        "安慰",
+        "温柔",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "安慰日常小委屈",
+        "表达陪着你或给你支持"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊小八靠靠",
+      "path": "stickers/chiikawa/comfort/ck-015-cuddle-together.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/comfort/ck-015-cuddle-together.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/comfort/ck-015-cuddle-together.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=3",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/62bffed95cd041dc807eda063215c737.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "217118ea664c6283e0ee0ce78edec1d0b90e43fc089806e3ed960aa5a763f6d1"
+    },
+    {
+      "id": "ck-016",
+      "name": "吉伊卡哇·吉伊棉花糖冒火慌慌",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊棉花糖冒火慌慌",
+      "path": "stickers/chiikawa/reaction/ck-016-chiikawa-panic.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/reaction/ck-016-chiikawa-panic.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/reaction/ck-016-chiikawa-panic.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=3",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/66c08780a2164891808e9274ce6aae42.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "023c0a0a320ed9d33d83198932622c2cc5f4c049f1bb8cd2e8c7d1be5f4c01f5"
+    },
+    {
+      "id": "ck-017",
+      "name": "吉伊卡哇·吉伊戴绿帽打招呼",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "greeting",
+      "emotion_tags": [
+        "亲切",
+        "招呼",
+        "你好"
+      ],
+      "chat_scenarios": [
+        "聊天开场或欢迎回来",
+        "轻松打招呼或告别"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊戴绿帽打招呼",
+      "path": "stickers/chiikawa/greeting/ck-017-chiikawa-green-hat.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/greeting/ck-017-chiikawa-green-hat.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/greeting/ck-017-chiikawa-green-hat.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=3",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/540847cfa4e84b688146845821db3a65.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "f87244b82e0a92e1ddd006db736e4b799a16a57af873457b9dd10966c973743f"
+    },
+    {
+      "id": "ck-018",
+      "name": "吉伊卡哇·吉伊害羞小步走",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱",
+        "害羞"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊害羞小步走",
+      "path": "stickers/chiikawa/affection/ck-018-chiikawa-shy-walk.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/affection/ck-018-chiikawa-shy-walk.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/affection/ck-018-chiikawa-shy-walk.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=3",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/4ae04224105e4c95b4e1aa5f6a566b00.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "64a6ac3f9aa62e6b589bcc992cfd7481c035718cbee63f606a5409698a941318"
+    },
+    {
+      "id": "ck-019",
+      "name": "吉伊卡哇·小八吃泡芙",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "小八"
+      ],
+      "category": "food",
+      "emotion_tags": [
+        "饿",
+        "干饭",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "聊吃饭或想吃的东西",
+        "分享零食和饮料"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：小八吃泡芙",
+      "path": "stickers/chiikawa/food/ck-019-hachiware-cream-puff.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/food/ck-019-hachiware-cream-puff.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/food/ck-019-hachiware-cream-puff.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=3",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/65e1f2f8e2d844708f8cff65566e267c.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "2f705e2d14d8e497b0189b28cdd2fbbb1dc379fc7a9c7ed2d0ff3c1f623a6bd1"
+    },
+    {
+      "id": "ck-020",
+      "name": "吉伊卡哇·吉伊提小熊包包",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "daily",
+      "emotion_tags": [
+        "日常",
+        "悠闲",
+        "放松"
+      ],
+      "chat_scenarios": [
+        "分享日常正在做的事",
+        "轻松陪聊或短暂离开"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊提小熊包包",
+      "path": "stickers/chiikawa/daily/ck-020-chiikawa-bag.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/daily/ck-020-chiikawa-bag.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/daily/ck-020-chiikawa-bag.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=3",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/ecddec36d0c748bbb8462c1af4c728b9.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "eb93684c764834f0d481bedc54ba5b965f7422b105ae5a62c0cd0b9a2e8a45fb"
+    },
+    {
+      "id": "ck-021",
+      "name": "吉伊卡哇·飞鼠捧碗吃饭",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "飞鼠"
+      ],
+      "category": "food",
+      "emotion_tags": [
+        "饿",
+        "干饭",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "聊吃饭或想吃的东西",
+        "分享零食和饮料"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：飞鼠捧碗吃饭",
+      "path": "stickers/chiikawa/food/ck-021-momonga-bowl.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/food/ck-021-momonga-bowl.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/food/ck-021-momonga-bowl.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=3",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/20250902145144_38c0351f15788d62d374d150e6b4478f.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "eb1ff4029da3964eda806130a026783e2cc3b591500343f118be4c5ba6e96003"
+    },
+    {
+      "id": "ck-022",
+      "name": "吉伊卡哇·吉伊干劲满满",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "comfort",
+      "emotion_tags": [
+        "陪伴",
+        "安慰",
+        "温柔",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "安慰日常小委屈",
+        "表达陪着你或给你支持"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊干劲满满",
+      "path": "stickers/chiikawa/comfort/ck-022-chiikawa-energetic.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/comfort/ck-022-chiikawa-energetic.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/comfort/ck-022-chiikawa-energetic.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=4",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/0a5b14fa1e054648a1b510aae2c3a2ca.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "d564339f4c5b496c11f1fd76a744bd696012c9f5fbdb3f65206c78a90a71316d"
+    },
+    {
+      "id": "ck-023",
+      "name": "吉伊卡哇·吉伊小八吃冰淇淋",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊",
+        "小八"
+      ],
+      "category": "food",
+      "emotion_tags": [
+        "饿",
+        "干饭",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "聊吃饭或想吃的东西",
+        "分享零食和饮料"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊小八吃冰淇淋",
+      "path": "stickers/chiikawa/food/ck-023-ice-cream-together.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/food/ck-023-ice-cream-together.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/food/ck-023-ice-cream-together.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=4",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/6a1567707dec4f679b546f27cc0a3843.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "d1311c64eff27f07fecc056414c1c0dde242adccc79bb595ad8e21485ee83700"
+    },
+    {
+      "id": "ck-024",
+      "name": "吉伊卡哇·吉伊小八热乎乎泡澡",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊",
+        "小八"
+      ],
+      "category": "daily",
+      "emotion_tags": [
+        "日常",
+        "悠闲",
+        "放松"
+      ],
+      "chat_scenarios": [
+        "分享日常正在做的事",
+        "轻松陪聊或短暂离开"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊小八热乎乎泡澡",
+      "path": "stickers/chiikawa/daily/ck-024-warm-bath.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/daily/ck-024-warm-bath.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/daily/ck-024-warm-bath.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=4",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/ce4c51beb3854725ad0729ee02277236.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "b79837b219361f0c5b44505233d81a4c5dfb60a38b3f48ee25350c8026d3e976"
+    },
+    {
+      "id": "ck-025",
+      "name": "吉伊卡哇·乌萨奇抱胸自信笑",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "乌萨奇"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：乌萨奇抱胸自信笑",
+      "path": "stickers/chiikawa/reaction/ck-025-usagi-confident.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/reaction/ck-025-usagi-confident.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/reaction/ck-025-usagi-confident.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=4",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/f8057a7825ae42459d58ec365b09050a.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "e46577b8d5c44636a450b2d63a4727c4a9d1482ea8d7a05409b36bf6ea606dd3"
+    },
+    {
+      "id": "ck-026",
+      "name": "吉伊卡哇·小八累累还在努力",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "小八"
+      ],
+      "category": "fatigue",
+      "emotion_tags": [
+        "疲惫",
+        "累",
+        "休息"
+      ],
+      "chat_scenarios": [
+        "聊加班或今天累了",
+        "想休息或放松一下"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：小八累累还在努力",
+      "path": "stickers/chiikawa/fatigue/ck-026-hachiware-working.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/fatigue/ck-026-hachiware-working.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/fatigue/ck-026-hachiware-working.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=4",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/20250902144946_3743f58d74ab2445434b68f8f459d037.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "267bd7c0edbf363fef7b51cde1141faa36c37bbdd5ad9fd7cba39010dd36f656"
+    },
+    {
+      "id": "ck-027",
+      "name": "吉伊卡哇·吉伊急死我了",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊急死我了",
+      "path": "stickers/chiikawa/reaction/ck-027-chiikawa-anxious.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/reaction/ck-027-chiikawa-anxious.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/reaction/ck-027-chiikawa-anxious.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=4",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/e59454ed5b6a4d8fa9e3d88afb5bc97c.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "3aa0173c83181128d3e0f54a8b370e3b39a2aa15da83cbc7db08384da4e7d2ff"
+    },
+    {
+      "id": "ck-028",
+      "name": "吉伊卡哇·乌萨奇鼓腮干饭",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "乌萨奇"
+      ],
+      "category": "food",
+      "emotion_tags": [
+        "饿",
+        "干饭",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "聊吃饭或想吃的东西",
+        "分享零食和饮料"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：乌萨奇鼓腮干饭",
+      "path": "stickers/chiikawa/food/ck-028-usagi-eat.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/food/ck-028-usagi-eat.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/food/ck-028-usagi-eat.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=4",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/20250902145253_fd599ce2d60fb77feaeb846d308c1c1c.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "282d82ee834992e9134bdffe98a6e63889a0fbf193b58951dc7b608ed015302a"
+    },
+    {
+      "id": "ck-029",
+      "name": "吉伊卡哇·吉伊闹钟里睡觉",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "吉伊"
+      ],
+      "category": "sleep",
+      "emotion_tags": [
+        "困",
+        "晚安",
+        "睡觉"
+      ],
+      "chat_scenarios": [
+        "互道晚安或准备睡觉",
+        "提醒对方早点休息"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：吉伊闹钟里睡觉",
+      "path": "stickers/chiikawa/sleep/ck-029-chiikawa-alarm.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/sleep/ck-029-chiikawa-alarm.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/sleep/ck-029-chiikawa-alarm.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=2",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/20250902145632_bfb1668b4d99bf362024f21f03cbe58b.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "111f7da6e16fe81059daed4ddc8d7c0c5e017e9f559aa4911a30f43be620daf9"
+    },
+    {
+      "id": "ck-030",
+      "name": "吉伊卡哇·小八雨里委屈抱抱",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "Chiikawa吉伊卡哇",
+      "collection_aliases": [
+        "Chiikawa",
+        "吉伊卡哇",
+        "小八"
+      ],
+      "category": "complaint",
+      "emotion_tags": [
+        "委屈",
+        "不满",
+        "吐槽"
+      ],
+      "chat_scenarios": [
+        "轻度吐槽或撒娇哭哭",
+        "表达日常的小情绪"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "Chiikawa吉伊卡哇：小八雨里委屈抱抱",
+      "path": "stickers/chiikawa/complaint/ck-030-hachiware-rain.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/chiikawa/complaint/ck-030-hachiware-rain.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/chiikawa/complaint/ck-030-hachiware-rain.gif",
+      "url_type": "public_image",
+      "source_url": "https://chiikawawallpaper.com/zh-Hans/gif?page=2",
+      "source_image_url": "https://r2.chiikawawallpaper.com/wallpaper/gif/1bd364eb6d8b443382e287e569447958.gif",
+      "source_author": "角色权利归 Nagano 及相关权利人；图片整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "90dd11d29261ed01ef415b52f6f887c6434303b98f2433ebbe7196a24406a4cd"
+    },
+    {
+      "id": "bb-001",
+      "name": "黄油小熊·生气哼一声",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "complaint",
+      "emotion_tags": [
+        "委屈",
+        "不满",
+        "吐槽",
+        "生气"
+      ],
+      "chat_scenarios": [
+        "轻度吐槽或撒娇哭哭",
+        "表达日常的小情绪"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：生气哼一声",
+      "path": "stickers/butter-bear/complaint/bb-001-angry.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/complaint/bb-001-angry.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/complaint/bb-001-angry.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/169ad0b1915a2aaa584248967f53362a384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "6cacfc86bc62bd802ac158b60843be1609f2641038c81885f32a72ddff644129"
+    },
+    {
+      "id": "bb-002",
+      "name": "黄油小熊·捂嘴偷笑",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：捂嘴偷笑",
+      "path": "stickers/butter-bear/celebration/bb-002-giggle.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/celebration/bb-002-giggle.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/celebration/bb-002-giggle.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/eb2d94cff12e17dee72db99583aafb54384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "ceea5ba8253330cb3f865ff401575d4f8ec0956c3b8834e4ce1313045bc4ef52"
+    },
+    {
+      "id": "bb-003",
+      "name": "黄油小熊·沉默省略号",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：沉默省略号",
+      "path": "stickers/butter-bear/reaction/bb-003-speechless.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/reaction/bb-003-speechless.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/reaction/bb-003-speechless.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/c4e97edadb2530e3d2a92ca1a8925106384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "f8a04617a60a937294e463286851f4b5d7f2593280fe8ac11a960834f4e8c5a2"
+    },
+    {
+      "id": "bb-004",
+      "name": "黄油小熊·委屈眼泪汪汪",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "complaint",
+      "emotion_tags": [
+        "委屈",
+        "不满",
+        "吐槽",
+        "难过"
+      ],
+      "chat_scenarios": [
+        "轻度吐槽或撒娇哭哭",
+        "表达日常的小情绪"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：委屈眼泪汪汪",
+      "path": "stickers/butter-bear/complaint/bb-004-teary.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/complaint/bb-004-teary.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/complaint/bb-004-teary.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/703315e065a356eb500fce82dd38af59384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "c25f1e64970faac31c03bb064ce063837832950e57abf4a2ce51872a48b5ef15"
+    },
+    {
+      "id": "bb-005",
+      "name": "黄油小熊·举爱心谢谢你",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "gratitude",
+      "emotion_tags": [
+        "感谢",
+        "谢谢",
+        "礼貌",
+        "喜欢"
+      ],
+      "chat_scenarios": [
+        "收到帮助后表达感谢",
+        "礼貌回应心意"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "Thanks",
+      "alt": "黄油小熊：举爱心谢谢你",
+      "path": "stickers/butter-bear/gratitude/bb-005-thanks-heart.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/gratitude/bb-005-thanks-heart.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/gratitude/bb-005-thanks-heart.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/886c086cefac7b4d702f50a89dec6068384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "078f64581f9e0dc003465bfd02a908745db20729a329af51de32fbef66963fdd"
+    },
+    {
+      "id": "bb-006",
+      "name": "黄油小熊·给你一个赞",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：给你一个赞",
+      "path": "stickers/butter-bear/celebration/bb-006-thumbs-up.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/celebration/bb-006-thumbs-up.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/celebration/bb-006-thumbs-up.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/620c603c10d771f9121ba796ee0e4ebf384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "586475b04dd1ba0206f77f395bd6aa81e8adb7bea3dd0a5f164ddc4f86c76366"
+    },
+    {
+      "id": "bb-007",
+      "name": "黄油小熊·满头问号",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应",
+        "疑惑"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：满头问号",
+      "path": "stickers/butter-bear/reaction/bb-007-confused.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/reaction/bb-007-confused.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/reaction/bb-007-confused.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/b1b8524799d4c07fc0bfda4136a4571a384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "c8c55944e9fc9f3f2a108eae7f1626459d0857fa02f5f8106559c1f07d55e430"
+    },
+    {
+      "id": "bb-008",
+      "name": "黄油小熊·捧碗干饭",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "food",
+      "emotion_tags": [
+        "饿",
+        "干饭",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "聊吃饭或想吃的东西",
+        "分享零食和饮料"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：捧碗干饭",
+      "path": "stickers/butter-bear/food/bb-008-rice-bowl.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/food/bb-008-rice-bowl.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/food/bb-008-rice-bowl.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/ca17913217a06cc281d25f46faf54873384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "4552dd36a63ea46138735cde52825c396c36001763cd40264706048c16d576c0"
+    },
+    {
+      "id": "bb-009",
+      "name": "黄油小熊·开心蹦蹦跳",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：开心蹦蹦跳",
+      "path": "stickers/butter-bear/celebration/bb-009-happy-hop.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/celebration/bb-009-happy-hop.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/celebration/bb-009-happy-hop.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/1272e55bda5fe9eecf77aff9c36e0f1a384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "a7adbaf1567bbd03b51e8502c556f0f47718891e829596add9a6a5924f021dbc"
+    },
+    {
+      "id": "bb-010",
+      "name": "黄油小熊·墨镜小熊耍帅",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：墨镜小熊耍帅",
+      "path": "stickers/butter-bear/celebration/bb-010-cool-sunglasses.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/celebration/bb-010-cool-sunglasses.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/celebration/bb-010-cool-sunglasses.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/30fa657f82609f99405772fabf1488f0384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "f54e24fe661b1e0925b0eeab57cbc1423ca816cbbcd6983d9c3a1fc4cbb48594"
+    },
+    {
+      "id": "bb-011",
+      "name": "黄油小熊·突然出现啦",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "greeting",
+      "emotion_tags": [
+        "亲切",
+        "招呼",
+        "你好"
+      ],
+      "chat_scenarios": [
+        "聊天开场或欢迎回来",
+        "轻松打招呼或告别"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：突然出现啦",
+      "path": "stickers/butter-bear/greeting/bb-011-sudden-hello.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/greeting/bb-011-sudden-hello.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/greeting/bb-011-sudden-hello.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/7e99ca2fa0db502f011b1264601e923b384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "da7de8e0c20b46213c5107e275587c842e5ee34ca42a2d00ad99c9918d7c8661"
+    },
+    {
+      "id": "bb-012",
+      "name": "黄油小熊·天使小熊收到",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：天使小熊收到",
+      "path": "stickers/butter-bear/reaction/bb-012-received.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/reaction/bb-012-received.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/reaction/bb-012-received.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/3ae2538656190206de13a5eb57e6c9d2384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "8e1396a4f4f9cc0d7e089230bc3a84d16c8dc7faa4cb0872633b3ce7faf5316c"
+    },
+    {
+      "id": "bb-013",
+      "name": "黄油小熊·传递爱心给你",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：传递爱心给你",
+      "path": "stickers/butter-bear/affection/bb-013-send-heart.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/affection/bb-013-send-heart.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/affection/bb-013-send-heart.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/c17a83ddaf3dddfdfbb4e0ec517f00e2384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "ea2d54a30c6574d0d170b74e122633477927e14e318801dbaadf811a1e5c8c2e"
+    },
+    {
+      "id": "bb-014",
+      "name": "黄油小熊·低头鞠个躬",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "gratitude",
+      "emotion_tags": [
+        "感谢",
+        "谢谢",
+        "礼貌"
+      ],
+      "chat_scenarios": [
+        "收到帮助后表达感谢",
+        "礼貌回应心意"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：低头鞠个躬",
+      "path": "stickers/butter-bear/gratitude/bb-014-bow.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/gratitude/bb-014-bow.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/gratitude/bb-014-bow.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/56cd6a3729ae32732f31c28aea97fc39384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "b13017bb7c22af76c9cfe5765f41948301904a033f075970bc7fcd562d45fe63"
+    },
+    {
+      "id": "bb-015",
+      "name": "黄油小熊·捧着冰淇淋",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "food",
+      "emotion_tags": [
+        "饿",
+        "干饭",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "聊吃饭或想吃的东西",
+        "分享零食和饮料"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：捧着冰淇淋",
+      "path": "stickers/butter-bear/food/bb-015-ice-cream.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/food/bb-015-ice-cream.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/food/bb-015-ice-cream.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/95a84cc5e6fb24d07db845403c00e6a6384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "b1336c5ab72c862b76b138a7e2613cb67122c28eddd7312e00edfd65dc9a45f1"
+    },
+    {
+      "id": "bb-016",
+      "name": "黄油小熊·撑伞等你",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "daily",
+      "emotion_tags": [
+        "日常",
+        "悠闲",
+        "放松"
+      ],
+      "chat_scenarios": [
+        "分享日常正在做的事",
+        "轻松陪聊或短暂离开"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：撑伞等你",
+      "path": "stickers/butter-bear/daily/bb-016-umbrella.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/daily/bb-016-umbrella.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/daily/bb-016-umbrella.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/4fa0f75c5a829b085fc1d0c03128b614384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "d3c2e2e8f35baca9331772585d252050ff01870dd275cb62932857e1b38fc49c"
+    },
+    {
+      "id": "bb-017",
+      "name": "黄油小熊·饭饭饿饿",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "food",
+      "emotion_tags": [
+        "饿",
+        "干饭",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "聊吃饭或想吃的东西",
+        "分享零食和饮料"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "饭饭 饿饿",
+      "alt": "黄油小熊：饭饭饿饿",
+      "path": "stickers/butter-bear/food/bb-017-hungry.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/food/bb-017-hungry.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/food/bb-017-hungry.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/456ff407e54f72530e18e4ceee560b3a384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "6de0c43cd30ccdb5893cabf970ad719830ed5711205d7858dcd30ff85ec530df"
+    },
+    {
+      "id": "bb-018",
+      "name": "黄油小熊·开心扭扭圈",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞"
+      ],
+      "chat_scenarios": [
+        "分享好消息或小进展",
+        "轻松夸夸对方"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：开心扭扭圈",
+      "path": "stickers/butter-bear/celebration/bb-018-happy-spin.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/celebration/bb-018-happy-spin.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/celebration/bb-018-happy-spin.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/a2f914628ae4dce34dda5ee2256f7624384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "1bbb6bad521eec0d51f9a588a86d3ba801a90019ba1cffa6634478fad2c50e53"
+    },
+    {
+      "id": "bb-019",
+      "name": "黄油小熊·气到冒泡泡",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "complaint",
+      "emotion_tags": [
+        "委屈",
+        "不满",
+        "吐槽",
+        "生气"
+      ],
+      "chat_scenarios": [
+        "轻度吐槽或撒娇哭哭",
+        "表达日常的小情绪"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：气到冒泡泡",
+      "path": "stickers/butter-bear/complaint/bb-019-anger-bubbles.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/complaint/bb-019-anger-bubbles.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/complaint/bb-019-anger-bubbles.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/b35f036df3b53518ce4e7a2f93e5ac4f384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "423c53c6b206d995df1e1d3af84eec6934f9cbaf23ea9775438325852863be25"
+    },
+    {
+      "id": "bb-020",
+      "name": "黄油小熊·拜托拜托啦",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应",
+        "请求"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "拜托",
+      "alt": "黄油小熊：拜托拜托啦",
+      "path": "stickers/butter-bear/reaction/bb-020-please.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/reaction/bb-020-please.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/reaction/bb-020-please.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/0197705359f30a942f72670874f09642384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "6a3c4e115d3abb8ce5e2bbe4dcb3dea8e697beb3f3f22068346ddede526c9ff9"
+    },
+    {
+      "id": "bb-021",
+      "name": "黄油小熊·天使小熊说OK",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "reaction",
+      "emotion_tags": [
+        "反应",
+        "同意"
+      ],
+      "chat_scenarios": [
+        "接住意外消息",
+        "表达疑惑或一时不知怎么回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "OK",
+      "alt": "黄油小熊：天使小熊说OK",
+      "path": "stickers/butter-bear/reaction/bb-021-okay.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/reaction/bb-021-okay.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/reaction/bb-021-okay.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/3a38955f828750909933c18070345fd7384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "a322d8fb1dfc9328e3489ac3ed3fb373a120df51973e8034101f8c7f6eb3abd8"
+    },
+    {
+      "id": "bb-022",
+      "name": "黄油小熊·探头我来啦",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "greeting",
+      "emotion_tags": [
+        "亲切",
+        "招呼",
+        "你好"
+      ],
+      "chat_scenarios": [
+        "聊天开场或欢迎回来",
+        "轻松打招呼或告别"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：探头我来啦",
+      "path": "stickers/butter-bear/greeting/bb-022-hello-peek.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/greeting/bb-022-hello-peek.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/greeting/bb-022-hello-peek.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/cc79a772f3d639706d0dbfc7d842c815384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "44dbe74e7c4dac9ca34ad3f07c4b74bb769adf70cb07b8c46ba971749aab95b9"
+    },
+    {
+      "id": "bb-023",
+      "name": "黄油小熊·喝一杯奶茶",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "daily",
+      "emotion_tags": [
+        "日常",
+        "悠闲",
+        "放松"
+      ],
+      "chat_scenarios": [
+        "分享日常正在做的事",
+        "轻松陪聊或短暂离开"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：喝一杯奶茶",
+      "path": "stickers/butter-bear/daily/bb-023-milk-tea.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/daily/bb-023-milk-tea.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/daily/bb-023-milk-tea.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/7c07206a8cefa455caee8a6e289dc092384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "0aa00b7d0782809573e149301a4a4ebd37de9bd2c00ac6838c65c733821e8b0b"
+    },
+    {
+      "id": "bb-024",
+      "name": "黄油小熊·亲亲飞吻",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：亲亲飞吻",
+      "path": "stickers/butter-bear/affection/bb-024-kiss.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/affection/bb-024-kiss.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/affection/bb-024-kiss.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/3d6d095521030ed3265427f5d53f161b384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "64530168494e8fa2a7f91a64d773f5dc4728b5f497cd3a0ee48a1dedc584cfbc"
+    },
+    {
+      "id": "bb-025",
+      "name": "黄油小熊·Hi挥手问好",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "greeting",
+      "emotion_tags": [
+        "亲切",
+        "招呼",
+        "你好"
+      ],
+      "chat_scenarios": [
+        "聊天开场或欢迎回来",
+        "轻松打招呼或告别"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "Hi~",
+      "alt": "黄油小熊：Hi挥手问好",
+      "path": "stickers/butter-bear/greeting/bb-025-wave-hi.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/greeting/bb-025-wave-hi.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/greeting/bb-025-wave-hi.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/b659b603fc306e0b452f4457550c93f7384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "2c40a2efe0a3e73dd1fc21b3de8b9670486773fc4134297bb71ec626d67d1241"
+    },
+    {
+      "id": "bb-026",
+      "name": "黄油小熊·拿杯听歌放松",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "daily",
+      "emotion_tags": [
+        "日常",
+        "悠闲",
+        "放松"
+      ],
+      "chat_scenarios": [
+        "分享日常正在做的事",
+        "轻松陪聊或短暂离开"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：拿杯听歌放松",
+      "path": "stickers/butter-bear/daily/bb-026-relax-music.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/daily/bb-026-relax-music.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/daily/bb-026-relax-music.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/9624305c0c2d27a222584f479aac28a6384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "3473c7d3a6d3e099b17ca32969a58dd09aacdab9ae06c9341ccb6a42c3611d2a"
+    },
+    {
+      "id": "bb-027",
+      "name": "黄油小熊·送你一朵花",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "贴贴",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "熟悉的人之间表达喜欢",
+        "回应贴贴或撒娇"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：送你一朵花",
+      "path": "stickers/butter-bear/affection/bb-027-offer-flower.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/affection/bb-027-offer-flower.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/affection/bb-027-offer-flower.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/146f266fa3c8538276eb61a2b8092f03384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "7892e1667c6d2860062e344e2ca4cda224406a7a4ffb9ee2ad52613e7d30ddfe"
+    },
+    {
+      "id": "bb-028",
+      "name": "黄油小熊·睡帽月亮晚安",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "sleep",
+      "emotion_tags": [
+        "困",
+        "晚安",
+        "睡觉"
+      ],
+      "chat_scenarios": [
+        "互道晚安或准备睡觉",
+        "提醒对方早点休息"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：睡帽月亮晚安",
+      "path": "stickers/butter-bear/sleep/bb-028-good-night.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/sleep/bb-028-good-night.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/sleep/bb-028-good-night.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/add58463723c1d79aecc1c344421cd43384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "9ef2d943b9aad39361030a99d693dc7a81a9448db1d3e9f9a136b31f352bc2d5"
+    },
+    {
+      "id": "bb-029",
+      "name": "黄油小熊·小熊小猪贴贴",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "comfort",
+      "emotion_tags": [
+        "陪伴",
+        "安慰",
+        "温柔",
+        "抱抱"
+      ],
+      "chat_scenarios": [
+        "安慰日常小委屈",
+        "表达陪着你或给你支持"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "",
+      "alt": "黄油小熊：小熊小猪贴贴",
+      "path": "stickers/butter-bear/comfort/bb-029-cuddle-pig.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/comfort/bb-029-cuddle-pig.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/comfort/bb-029-cuddle-pig.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/48b468edcba4e9c382e434d81ca95b90384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "6f61995867df82388479a91db6ec9231996d9bc9ef685c64757a430238870312"
+    },
+    {
+      "id": "bb-030",
+      "name": "黄油小熊·生日快乐",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "黄油小熊",
+      "collection_aliases": [
+        "黄油小熊",
+        "Butterbear"
+      ],
+      "category": "celebration",
+      "emotion_tags": [
+        "开心",
+        "庆祝",
+        "赞",
+        "生日"
+      ],
+      "chat_scenarios": [
+        "祝对方生日快乐",
+        "庆祝生日并送上祝福"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时避免戏谑表情",
+        "亲昵表情按关系与语境使用"
+      ],
+      "image_text": "生日快乐",
+      "alt": "黄油小熊：生日快乐",
+      "path": "stickers/butter-bear/celebration/bb-030-happy-birthday.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/butter-bear/celebration/bb-030-happy-birthday.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/butter-bear/celebration/bb-030-happy-birthday.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.bilibili.com/opus/913167599703949401",
+      "source_image_url": "https://i0.hdslb.com/bfs/new_dyn/2a9a1d90ef19ea6f72d4da5f3c5981df384628005.gif",
+      "source_author": "黄油小熊及相关权利人；具体整理来源见 source_url",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "mime_type": "image/gif",
+      "animated": true,
+      "source_sha256": "6fc3b80b9058b70b381d29d6ad85e591eed010f4bce33b59864928a6dcf19cd0"
     }
   ]
 }
-
