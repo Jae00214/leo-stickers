@@ -48,3 +48,39 @@ url 是公开 GitHub Raw 图片地址；cdn_url 是备用 jsDelivr 地址，可�
 第三方素材禁止用于商业用途。上述声明不等同于权利人的转载许可，本仓库未确认复古猫图片的公开再分发许可，不声称得到官方授权，也不授予任何第三方权利。
 
 [MIT 许可](LICENSE)仅覆盖三张原创几何测试图与原创说明，不覆盖复古猫角色、第三方图片或设计。
+
+## 新增表情（2026-10-09）
+
+新增 24 张复古猫表情：16 张保留原动画的 GIF、8 张静态图片。复古猫共 29 张，加上原创测试图共 32 张。
+
+按 affection（亲昵）、comfort（安慰倾听）、greeting（招呼）、fatigue（疲惫休息）、reaction（反应）、complaint（委屈吐槽）、celebration（开心庆祝）分类。文件名包含稳定编号和动作描述，索引记录中文描述名、情绪、聊天场景和原始来源；中文名为方便检索自行描述，不冒充官方表情名称。
+
+已连接 MCP 的 ChatGPT 可先调用 list_available_stickers，再按编号调用 send_sticker。更新索引无需重新部署；图片卡片位置由 ChatGPT 客户端控制，当前实测在工具调用区域显示。
+
+| 编号 | 描述名称 | 分类 | 格式 |
+|---|---|---|---|
+| vc-006 | 挠头有点懵 | reaction | GIF |
+| vc-007 | 躺平摆烂 | fatigue | GIF |
+| vc-008 | 坐着玩手机 | reaction | GIF |
+| vc-009 | 掀衣挠肚皮 | reaction | GIF |
+| vc-010 | 挥手打招呼 | greeting | GIF |
+| vc-011 | 揉眼委屈哭 | complaint | GIF |
+| vc-012 | 星星眼期待 | reaction | GIF |
+| vc-013 | 仰头嚎啕大哭 | complaint | GIF |
+| vc-014 | 小灰猫激动抖抖 | reaction | GIF |
+| vc-015 | 小灰猫歪头摸脸 | reaction | GIF |
+| vc-016 | 小灰猫张嘴惊讶 | reaction | GIF |
+| vc-017 | 亲亲小灰猫 | affection | GIF |
+| vc-018 | 扯脸逗逗你 | affection | GIF |
+| vc-019 | 累到灵魂出窍 | fatigue | GIF |
+| vc-020 | 小灰猫捧杯喝一口 | reaction | GIF |
+| vc-021 | 小灰猫抬头期待 | reaction | GIF |
+| vc-022 | 被小猫们团团抱住 | affection | JPG |
+| vc-023 | 搂搂小灰猫 | comfort | JPG |
+| vc-024 | 趴着想你 | affection | JPG |
+| vc-025 | 竖起耳朵听你说 | comfort | JPG |
+| vc-026 | 抱着小猫大吃一惊 | reaction | JPG |
+| vc-027 | 累了趴下休息 | fatigue | JPG |
+| vc-028 | 没关系我很好 | reaction | JPG |
+| vc-029 | 其实有关系 | complaint | JPG |
+

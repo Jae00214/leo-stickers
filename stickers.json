@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_at": "2026-10-08",
+  "updated_at": "2026-10-09",
   "access": "public",
   "repository": "Jae00214/leo-stickers",
   "stickers": [
@@ -230,6 +230,823 @@
       "source_author": "VintageCat复古猫",
       "license": "第三方版权保留；未确认公开再分发许可",
       "permission_url": null
+    },
+    {
+      "id": "vc-006",
+      "name": "挠头有点懵",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "疑惑",
+        "困惑",
+        "懵"
+      ],
+      "chat_scenarios": [
+        "没听懂对方的话",
+        "遇到奇怪的小事"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫穿红衣，抬爪挠头，头旁有疑惑的弧线。",
+      "path": "stickers/vintage-cat/reaction/vc-006-scratch-head.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-006-scratch-head.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-006-scratch-head.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5297393868472907.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tgy1id1ibjj39pg306o06o0t5.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-007",
+      "name": "躺平摆烂",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "fatigue",
+      "emotion_tags": [
+        "疲惫",
+        "摆烂",
+        "放松"
+      ],
+      "chat_scenarios": [
+        "工作结束想躺下",
+        "准备休息或互道晚安"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫穿红衣横躺着，身体轻轻晃动。",
+      "path": "stickers/vintage-cat/fatigue/vc-007-lie-flat.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/fatigue/vc-007-lie-flat.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/fatigue/vc-007-lie-flat.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5297393868472907.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx2.sinaimg.cn/large/008Ifb2tgy1id1ibjt0z8g306o06ogrv.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-008",
+      "name": "坐着玩手机",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "摸鱼",
+        "悠闲",
+        "专注"
+      ],
+      "chat_scenarios": [
+        "暂时离开聊天",
+        "调侃摸鱼或刷手机"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫坐在马桶上看手机，旁边有闪光。",
+      "path": "stickers/vintage-cat/reaction/vc-008-phone-on-toilet.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-008-phone-on-toilet.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-008-phone-on-toilet.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5297393868472907.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tgy1id1ibjseohg306o06o7a5.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-009",
+      "name": "掀衣挠肚皮",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "随意",
+        "放松",
+        "调皮"
+      ],
+      "chat_scenarios": [
+        "熟人之间轻松闲聊",
+        "懒洋洋地回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫躺着掀起红衣，露出肚皮并挠动。",
+      "path": "stickers/vintage-cat/reaction/vc-009-scratch-belly.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-009-scratch-belly.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-009-scratch-belly.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5297393868472907.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tgy1id1ibjwqpvg306o06oqay.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-010",
+      "name": "挥手打招呼",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "greeting",
+      "emotion_tags": [
+        "亲切",
+        "欢迎",
+        "开心"
+      ],
+      "chat_scenarios": [
+        "聊天开场说你好",
+        "挥手告别或说下次见"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫穿红衣，举起一只爪子来回挥手。",
+      "path": "stickers/vintage-cat/greeting/vc-010-wave-hello.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/greeting/vc-010-wave-hello.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/greeting/vc-010-wave-hello.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5297393868472907.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx4.sinaimg.cn/large/008Ifb2tgy1id1ibjlxi3g306o06ojsr.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-011",
+      "name": "揉眼委屈哭",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "complaint",
+      "emotion_tags": [
+        "委屈",
+        "难过",
+        "求安慰"
+      ],
+      "chat_scenarios": [
+        "表达一点小委屈",
+        "撒娇寻求安慰"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫抬起双爪揉眼，眼旁流下蓝色泪水。",
+      "path": "stickers/vintage-cat/complaint/vc-011-rub-eyes-cry.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/complaint/vc-011-rub-eyes-cry.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/complaint/vc-011-rub-eyes-cry.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5297393868472907.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx1.sinaimg.cn/large/008Ifb2tgy1id1ibjtkmrg306o06ogrw.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-012",
+      "name": "星星眼期待",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "期待",
+        "喜欢",
+        "兴奋"
+      ],
+      "chat_scenarios": [
+        "期待礼物或好消息",
+        "表达被可爱事物吸引"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫抬头望着，眼睛闪亮，周围有金色星星。",
+      "path": "stickers/vintage-cat/reaction/vc-012-sparkling-eyes.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-012-sparkling-eyes.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-012-sparkling-eyes.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5297393868472907.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx2.sinaimg.cn/large/008Ifb2tgy1id1ibjru13g306o06o42d.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-013",
+      "name": "仰头嚎啕大哭",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "complaint",
+      "emotion_tags": [
+        "崩溃",
+        "委屈",
+        "难过"
+      ],
+      "chat_scenarios": [
+        "夸张表达小事受挫",
+        "熟人间调侃哭哭"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫仰头张嘴，泪水从双眼不断流下。",
+      "path": "stickers/vintage-cat/complaint/vc-013-sob-loudly.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/complaint/vc-013-sob-loudly.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/complaint/vc-013-sob-loudly.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5297393868472907.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx1.sinaimg.cn/large/008Ifb2tgy1id1ibjkpl1g306o06o3yz.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-014",
+      "name": "小灰猫激动抖抖",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "激动",
+        "紧张",
+        "兴奋"
+      ],
+      "chat_scenarios": [
+        "兴奋地等消息",
+        "略紧张地回应"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "小灰猫嘴边带笑，身体和胡须颤动。",
+      "path": "stickers/vintage-cat/reaction/vc-014-grey-shiver.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-014-grey-shiver.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-014-grey-shiver.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5244467004572505.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tgy1i8cnrxlb3og30a00a0dg8.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-015",
+      "name": "小灰猫歪头摸脸",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "疑惑",
+        "思考",
+        "发呆"
+      ],
+      "chat_scenarios": [
+        "一时不知道怎么回应",
+        "思考对方的提问"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "小灰猫抬爪摸着脸，脑袋轻轻摆动。",
+      "path": "stickers/vintage-cat/reaction/vc-015-grey-touch-cheek.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-015-grey-touch-cheek.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-015-grey-touch-cheek.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5244467004572505.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx4.sinaimg.cn/large/008Ifb2tgy1i8cnrvrevkg30a00a0mx2.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-016",
+      "name": "小灰猫张嘴惊讶",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "惊讶",
+        "震惊",
+        "懵"
+      ],
+      "chat_scenarios": [
+        "听到意外消息",
+        "夸张表达不可思议"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "小灰猫抬起脸，嘴巴张大。",
+      "path": "stickers/vintage-cat/reaction/vc-016-grey-open-mouth.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-016-grey-open-mouth.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-016-grey-open-mouth.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5244467004572505.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx4.sinaimg.cn/large/008Ifb2tgy1i8cnrvaa8yg30a00a0weu.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-017",
+      "name": "亲亲小灰猫",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "affection",
+      "emotion_tags": [
+        "喜欢",
+        "亲昵",
+        "撒娇"
+      ],
+      "chat_scenarios": [
+        "回应亲亲或贴贴",
+        "表达熟人之间的喜欢"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "一只灰猫靠近另一只灰猫的脸并亲吻。",
+      "path": "stickers/vintage-cat/affection/vc-017-grey-kiss.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/affection/vc-017-grey-kiss.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/affection/vc-017-grey-kiss.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5244467004572505.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx1.sinaimg.cn/large/008Ifb2tgy1i8cnry1rl0g30a00a0749.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-018",
+      "name": "扯脸逗逗你",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "affection",
+      "emotion_tags": [
+        "调皮",
+        "亲昵",
+        "打闹"
+      ],
+      "chat_scenarios": [
+        "熟人之间逗趣",
+        "轻松打闹或捏捏脸"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "两只灰猫面对面，伸爪碰对方脸，被碰的一只脸红。",
+      "path": "stickers/vintage-cat/affection/vc-018-grey-tease-cheek.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/affection/vc-018-grey-tease-cheek.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/affection/vc-018-grey-tease-cheek.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5244467004572505.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx4.sinaimg.cn/large/008Ifb2tgy1i8cnrx3usfg30a00a0t8o.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-019",
+      "name": "累到灵魂出窍",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "fatigue",
+      "emotion_tags": [
+        "疲惫",
+        "无语",
+        "虚脱"
+      ],
+      "chat_scenarios": [
+        "工作太累了",
+        "被离谱的小事整无语"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "小灰猫侧躺，白色小幽灵从身体上方飘起。",
+      "path": "stickers/vintage-cat/fatigue/vc-019-grey-soul-leaves.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/fatigue/vc-019-grey-soul-leaves.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/fatigue/vc-019-grey-soul-leaves.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5244467004572505.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tgy1i8cnrwnii8g30a00a00tc.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-020",
+      "name": "小灰猫捧杯喝一口",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "悠闲",
+        "放松",
+        "满足"
+      ],
+      "chat_scenarios": [
+        "喝饮料或短暂休息",
+        "轻松接话"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "小灰猫双爪捧着黄色杯子，小口喝着杯里的东西。",
+      "path": "stickers/vintage-cat/reaction/vc-020-grey-sip-cup.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-020-grey-sip-cup.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-020-grey-sip-cup.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5244467004572505.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tgy1i8cnrw70pmg30a00a0t92.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-021",
+      "name": "小灰猫抬头期待",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "期待",
+        "乖巧",
+        "喜欢"
+      ],
+      "chat_scenarios": [
+        "期待对方回应",
+        "软软地表达想要"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "小灰猫抬头望着，眼睛带亮光，脑袋微微晃动。",
+      "path": "stickers/vintage-cat/reaction/vc-021-grey-look-up.gif",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-021-grey-look-up.gif",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-021-grey-look-up.gif",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5244467004572505.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tgy1i8cnrykcj1g30a00a0wen.gif",
+      "mime_type": "image/gif",
+      "animated": true
+    },
+    {
+      "id": "vc-022",
+      "name": "被小猫们团团抱住",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "affection",
+      "emotion_tags": [
+        "亲昵",
+        "被关心",
+        "喜欢"
+      ],
+      "chat_scenarios": [
+        "表达想抱抱",
+        "回应热情的欢迎"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫穿红衣，被多只米色小猫围着拥抱。",
+      "path": "stickers/vintage-cat/affection/vc-022-group-hug.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/affection/vc-022-group-hug.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/affection/vc-022-group-hug.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5225689926340145.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tgy1i6oraxstxbj30rs0rswis.jpg",
+      "mime_type": "image/jpeg",
+      "animated": false
+    },
+    {
+      "id": "vc-023",
+      "name": "搂搂小灰猫",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "comfort",
+      "emotion_tags": [
+        "安慰",
+        "温柔",
+        "陪伴"
+      ],
+      "chat_scenarios": [
+        "安慰对方的小委屈",
+        "表达有人陪着你"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫穿红衣，搂着靠在身旁的灰猫。",
+      "path": "stickers/vintage-cat/comfort/vc-023-comfort-grey.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/comfort/vc-023-comfort-grey.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/comfort/vc-023-comfort-grey.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5234399568200528.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx2.sinaimg.cn/large/008Ifb2tgy1i7gjld8o39j32bc2bcthu.jpg",
+      "mime_type": "image/jpeg",
+      "animated": false
+    },
+    {
+      "id": "vc-024",
+      "name": "趴着想你",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "affection",
+      "emotion_tags": [
+        "想念",
+        "撒娇",
+        "期待"
+      ],
+      "chat_scenarios": [
+        "表达我想你了",
+        "想要对方陪聊天"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫趴在地上，头贴着地面，望向前方。",
+      "path": "stickers/vintage-cat/affection/vc-024-lie-down-miss-you.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/affection/vc-024-lie-down-miss-you.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/affection/vc-024-lie-down-miss-you.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5249625451661360.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx4.sinaimg.cn/large/008Ifb2tgy1i8t49g3wkej32bc2bcwmi.jpg",
+      "mime_type": "image/jpeg",
+      "animated": false
+    },
+    {
+      "id": "vc-025",
+      "name": "竖起耳朵听你说",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "comfort",
+      "emotion_tags": [
+        "关心",
+        "倾听",
+        "好奇"
+      ],
+      "chat_scenarios": [
+        "邀请对方讲讲发生了什么",
+        "认真听对方分享"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "米色小猫伸长一只耳朵，旁边两只小猫张嘴说话。",
+      "path": "stickers/vintage-cat/comfort/vc-025-listen-carefully.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/comfort/vc-025-listen-carefully.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/comfort/vc-025-listen-carefully.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5260549204216957.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx4.sinaimg.cn/large/008Ifb2tgy1i9ryu6ytr8j3103103jv4.jpg",
+      "mime_type": "image/jpeg",
+      "animated": false
+    },
+    {
+      "id": "vc-026",
+      "name": "抱着小猫大吃一惊",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "惊讶",
+        "震惊",
+        "紧张"
+      ],
+      "chat_scenarios": [
+        "突然听到意外消息",
+        "夸张地表达吓了一跳"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫穿红衣，抱着多只米色小猫，张大嘴巴。",
+      "path": "stickers/vintage-cat/reaction/vc-026-shocked-with-kittens.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-026-shocked-with-kittens.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-026-shocked-with-kittens.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5261925550394279.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tgy1i9wcwm8qfzj30vm0vm76b.jpg",
+      "mime_type": "image/jpeg",
+      "animated": false
+    },
+    {
+      "id": "vc-027",
+      "name": "累了趴下休息",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "fatigue",
+      "emotion_tags": [
+        "疲惫",
+        "放松",
+        "休息"
+      ],
+      "chat_scenarios": [
+        "提醒对方休息一下",
+        "表达今天累了"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "",
+      "alt": "白猫弯下身体，头部贴着地面。",
+      "path": "stickers/vintage-cat/fatigue/vc-027-head-down-rest.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/fatigue/vc-027-head-down-rest.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/fatigue/vc-027-head-down-rest.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5284289345487420.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tgy1ibvm40opbej30a00a03yp.jpg",
+      "mime_type": "image/jpeg",
+      "animated": false
+    },
+    {
+      "id": "vc-028",
+      "name": "没关系我很好",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "reaction",
+      "emotion_tags": [
+        "倔强",
+        "故作轻松",
+        "嘴硬"
+      ],
+      "chat_scenarios": [
+        "轻松地说没事",
+        "调侃自己强装淡定"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "NO Problem",
+      "alt": "米色小猫竖起一根手指，图片文字为 NO Problem。",
+      "path": "stickers/vintage-cat/reaction/vc-028-no-problem.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/reaction/vc-028-no-problem.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/reaction/vc-028-no-problem.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5309023517672124.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx1.sinaimg.cn/large/008Ifb2tly1ie2m1a1sh2j30rs0rs0tb.jpg",
+      "mime_type": "image/jpeg",
+      "animated": false
+    },
+    {
+      "id": "vc-029",
+      "name": "其实有关系",
+      "original_name": null,
+      "name_origin": "descriptive",
+      "collection": "VintageCat复古猫系列",
+      "category": "complaint",
+      "emotion_tags": [
+        "委屈",
+        "难过",
+        "嘴硬失败"
+      ],
+      "chat_scenarios": [
+        "承认自己其实在意",
+        "轻松表达受委屈"
+      ],
+      "avoid_scenarios": [
+        "真实痛苦或严肃求助时不要用夸张表情戏谑",
+        "亲昵或打闹类表情仅在聊天关系和语境适合时使用"
+      ],
+      "image_text": "YES Problem",
+      "alt": "米色小猫低垂脑袋，眼泪流下，图片文字为 YES Problem。",
+      "path": "stickers/vintage-cat/complaint/vc-029-yes-problem.jpg",
+      "url": "https://raw.githubusercontent.com/Jae00214/leo-stickers/main/stickers/vintage-cat/complaint/vc-029-yes-problem.jpg",
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Jae00214/leo-stickers@main/stickers/vintage-cat/complaint/vc-029-yes-problem.jpg",
+      "url_type": "public_image",
+      "source_url": "https://www.sina.cn/news/detail/5309023517672124.html",
+      "source_author": "VintageCat复古猫",
+      "license": "第三方版权保留；未确认公开再分发许可",
+      "permission_url": null,
+      "source_image_url": "https://wx3.sinaimg.cn/large/008Ifb2tly1ie2m1a0wh2j30rs0rswf5.jpg",
+      "mime_type": "image/jpeg",
+      "animated": false
     }
   ]
 }
+
